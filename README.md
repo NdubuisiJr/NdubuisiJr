@@ -8,7 +8,7 @@ If you want to hear this guy teach some new and relevant topics in .Net with the
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&show_icons=true&theme=dracula)
+![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **NdubuisiJr/NdubuisiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
