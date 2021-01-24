@@ -4,7 +4,14 @@
 [![](https://img.shields.io/badge/-@ndubuisijr-%23181717?style=flat-square&logo=github)](https://github.com/NdubuisiJr)
 [![](https://img.shields.io/badge/-Ndubuisi%20Chukuigwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndubuisi-jr-chukuigwe-278417145/)](https://www.linkedin.com/in/ndubuisi-jr-chukuigwe-278417145/)
 
-If you want to hear this guy teach some new and relevant topics in .Net with the best accent you've ever heard 😄, checkout my [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
+- 🔭 I’m currently working on what I lay my hands on
+- 🌱 I’m currently learning to become a genius
+- 👯 I’m looking to collaborate with you
+- 💬 Ask me about anything
+- 📫 How to reach me: find social links above
+- 😄 Pronouns: Resnov and Dimitri Petronski
+- ⚡ Fun fact: Ate during a code review (virtual)
+- [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
@@ -15,13 +22,4 @@ If you want to hear this guy teach some new and relevant topics in .Net with the
 **NdubuisiJr/NdubuisiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
