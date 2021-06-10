@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
 - 📫 How to reach me: find social links above
-- 😄 Pronouns: Resnov and Dimitri Petronski
-- ⚡ Fun fact: Ate during a code review (virtual)
 - [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ## 𝗦𝘁𝗮𝘁𝘀
