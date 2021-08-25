@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
 - 📫 How to reach me: find social links above
+- [Website](https://www.ndubuisijr.com)
 - [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ## 𝗦𝘁𝗮𝘁𝘀
