@@ -14,8 +14,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&count_private=true&show_icons=true&theme=dracula)
-![NdubuisiJr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NdubuisiJr&layout=compact&theme=dracula)
+<span>![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&count_private=true&show_icons=true&theme=dracula)</span>
+<span>![NdubuisiJr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NdubuisiJr&layout=compact&theme=dracula)</span>
 
 <!--
 **NdubuisiJr/NdubuisiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
