@@ -13,8 +13,9 @@
 - [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ## 𝗦𝘁𝗮𝘁𝘀
+<span>![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&count_private=true&show_icons=true&theme=dracula&custom_title=Ndubuisijr%27s+Github+Stats&hide=contribs)</span>
 
-<span>![NdubuisiJr's github stats](https://github-readme-stats.vercel.app/api?username=NdubuisiJr&count_private=true&show_icons=true&theme=dracula)</span>
+## Languages
 <span>![NdubuisiJr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NdubuisiJr&layout=compact&theme=dracula)</span>
 
 <!--
