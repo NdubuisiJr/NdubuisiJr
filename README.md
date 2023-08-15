@@ -13,6 +13,8 @@
 - [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ## 𝗦𝘁𝗮𝘁𝘀
+![ndubuisijr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndubuisijr&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![ndubuisijr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndubuisijr&theme=dark&hide_border=true)
 <!--
 **NdubuisiJr/NdubuisiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
