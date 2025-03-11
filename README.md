@@ -11,6 +11,7 @@
 - 📫 How to reach me: find social links above
 - [Website](https://www.ndubuisijr.com)
 - [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
+- [![Contact me on Codementor](https://www.codementor.io/m-badges/ndubuisichukuigwe/book-session.svg)](https://www.codementor.io/@ndubuisichukuigwe?refer=badge)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![ndubuisijr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndubuisijr&theme=dark&show_icons=true&hide_border=true&layout=compact)
